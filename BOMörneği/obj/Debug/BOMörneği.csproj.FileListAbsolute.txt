@@ -1,0 +1,12 @@
+c:\users\ahmet\documents\visual studio 2015\Projects\BOMörneği\BOMörneği\bin\Debug\BOMörneği.exe.config
+c:\users\ahmet\documents\visual studio 2015\Projects\BOMörneği\BOMörneği\bin\Debug\BOMörneği.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\BOMörneği\BOMörneği\bin\Debug\BOMörneği.pdb
+c:\users\ahmet\documents\visual studio 2015\Projects\BOMörneği\BOMörneği\obj\Debug\BOMörneği.csprojResolveAssemblyReference.cache
+c:\users\ahmet\documents\visual studio 2015\Projects\BOMörneği\BOMörneği\obj\Debug\BOMörneği.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\BOMörneği\BOMörneği\obj\Debug\BOMörneği.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\C#\BOMörneği\BOMörneği\bin\Debug\BOMörneği.exe.config
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\C#\BOMörneği\BOMörneği\obj\Debug\BOMörneği.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\C#\BOMörneği\BOMörneği\obj\Debug\BOMörneği.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\C#\BOMörneği\BOMörneği\bin\Debug\BOMörneği.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\C#\BOMörneği\BOMörneği\bin\Debug\BOMörneği.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\C#\BOMörneği\BOMörneği\obj\Debug\BOMörneği.csprojResolveAssemblyReference.cache
